@@ -1,0 +1,39 @@
+[submodule "awesome-c"]
+	path = awesome-c
+	url = https://github.com/kozross/awesome-c.git
+[submodule "awesome-emacs"]
+	path = awesome-emacs
+	url = https://github.com/emacs-tw/awesome-emacs.git
+[submodule "awesome-linux"]
+	path = awesome-linux
+	url = https://github.com/aleksandar-todorovic/awesome-linux.git
+[submodule "awesome-javascript"]
+	path = awesome-javascript
+	url = https://github.com/sorrycc/awesome-javascript
+[submodule "awesome-nodejs"]
+	path = awesome-nodejs
+	url = https://github.com/sindresorhus/awesome-nodejs
+[submodule "awesome-php"]
+	path = awesome-php
+	url = https://github.com/JingwenTian/awesome-php
+[submodule "awesome-php-cn"]
+	path = awesome-php-cn
+	url = https://github.com/jobbole/awesome-php-cn
+[submodule "awesome-shell"]
+	path = awesome-shell
+	url = https://github.com/alebcay/awesome-shell
+[submodule "awesome-taro"]
+	path = awesome-taro
+	url = https://github.com/NervJS/awesome-taro.git
+[submodule "awesome-wechat-weapp"]
+	path = awesome-wechat-weapp
+	url = https://github.com/justjavac/awesome-wechat-weapp.git
+[submodule "awesome-zsh-plugins"]
+	path = awesome-zsh-plugins
+	url = https://github.com/unixorn/awesome-zsh-plugins
+[submodule "Awesome-Linux-Software"]
+	path = Awesome-Linux-Software
+	url = https://github.com/luong-komorebi/Awesome-Linux-Software
+[submodule "awesome-css"]
+	path = awesome-css
+	url = https://github.com/awesome-css-group/awesome-css
