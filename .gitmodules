@@ -37,3 +37,18 @@
 [submodule "awesome-css"]
 	path = awesome-css
 	url = https://github.com/awesome-css-group/awesome-css
+[submodule "think-awesome"]
+	path = think-awesome
+	url = https://github.com/top-think/think-awesome/
+[submodule "awesome-design-cn"]
+	path = awesome-design-cn
+	url = https://github.com/jobbole/awesome-design-cn
+[submodule "awesome-indie-zh"]
+	path = awesome-indie-zh
+	url = https://github.com/apachecn/awesome-indie-zh
+[submodule "the-way-to-wealth-freedom-notes"]
+	path = the-way-to-wealth-freedom-notes
+	url = https://github.com/apachecn/the-way-to-wealth-freedom-notes
+[submodule "awesome"]
+	path = awesome
+	url = https://github.com/sindresorhus/awesome.git
