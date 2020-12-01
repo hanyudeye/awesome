@@ -37,3 +37,12 @@
 [submodule "awesome-css"]
 	path = awesome-css
 	url = https://github.com/awesome-css-group/awesome-css
+[submodule "think-awesome"]
+	path = think-awesome
+	url = https://github.com/top-think/think-awesome/
+[submodule "free-programming-books"]
+	path = free-programming-books
+	url = https://github.com/EbookFoundation/free-programming-books
+[submodule "awesome-python-cn"]
+	path = awesome-python-cn
+	url = https://github.com/jobbole/awesome-python-cn.git
