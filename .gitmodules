@@ -46,3 +46,24 @@
 [submodule "awesome-python-cn"]
 	path = awesome-python-cn
 	url = https://github.com/jobbole/awesome-python-cn.git
+[submodule "awesome-design-cn"]
+	path = awesome-design-cn
+	url = https://github.com/jobbole/awesome-design-cn
+[submodule "awesome-indie-zh"]
+	path = awesome-indie-zh
+	url = https://github.com/apachecn/awesome-indie-zh
+[submodule "the-way-to-wealth-freedom-notes"]
+	path = the-way-to-wealth-freedom-notes
+	url = https://github.com/apachecn/the-way-to-wealth-freedom-notes
+[submodule "awesome"]
+	path = awesome
+	url = https://github.com/sindresorhus/awesome.git
+[submodule "awesome-c-cn"]
+	path = awesome-c-cn
+	url = https://github.com/jobbole/awesome-c-cn.git
+[submodule "LearnXinYminutes"]
+	path = LearnXinYminutes
+	url = https://github.com/Y-Dian/LearnXinYminutes.git
+[submodule "every-programmer-should-know"]
+	path = every-programmer-should-know
+	url = https://github.com/mtdvio/every-programmer-should-know.git
