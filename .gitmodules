@@ -67,3 +67,15 @@
 [submodule "every-programmer-should-know"]
 	path = every-programmer-should-know
 	url = https://github.com/mtdvio/every-programmer-should-know.git
+[submodule "awesome-android-ui"]
+	path = awesome-android-ui
+	url = https://github.com/wasabeef/awesome-android-ui.git
+[submodule "weekly"]
+	path = weekly
+	url = https://github.com/ruanyf/weekly.git
+[submodule "free-books"]
+	path = free-books
+	url = https://github.com/ruanyf/free-books.git
+[submodule "learnxinyminutes-docs"]
+	path = learnxinyminutes-docs
+	url = https://github.com/adambard/learnxinyminutes-docs.git
