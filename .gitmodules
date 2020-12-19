@@ -79,3 +79,6 @@
 [submodule "learnxinyminutes-docs"]
 	path = learnxinyminutes-docs
 	url = https://github.com/adambard/learnxinyminutes-docs.git
+[submodule "be-a-professional-programmer"]
+	path = be-a-professional-programmer
+	url = https://github.com/stanzhai/be-a-professional-programmer.git
