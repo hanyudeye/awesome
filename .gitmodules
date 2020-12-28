@@ -82,3 +82,9 @@
 [submodule "be-a-professional-programmer"]
 	path = be-a-professional-programmer
 	url = https://github.com/stanzhai/be-a-professional-programmer.git
+[submodule "GitHub-Chinese-Top-Charts"]
+	path = GitHub-Chinese-Top-Charts
+	url = https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts.git
+[submodule "linux-command"]
+	path = linux-command
+	url = https://github.com/jaywcjlove/linux-command.git
