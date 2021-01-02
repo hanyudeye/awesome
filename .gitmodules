@@ -88,3 +88,6 @@
 [submodule "linux-command"]
 	path = linux-command
 	url = https://github.com/jaywcjlove/linux-command.git
+[submodule "FinancialSupportForOpenSource"]
+	path = FinancialSupportForOpenSource
+	url = https://github.com/wizicer/FinancialSupportForOpenSource.git
