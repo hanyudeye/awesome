@@ -91,3 +91,6 @@
 [submodule "learn-more-python-the-hard-way-solutions"]
 	path = learn-more-python-the-hard-way-solutions
 	url = https://github.com/zedshaw/learn-more-python-the-hard-way-solutions.git
+[submodule "FinancialSupportForOpenSource"]
+	path = FinancialSupportForOpenSource
+	url = https://github.com/wizicer/FinancialSupportForOpenSource.git
