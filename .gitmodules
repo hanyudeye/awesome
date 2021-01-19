@@ -88,3 +88,6 @@
 [submodule "linux-command"]
 	path = linux-command
 	url = https://github.com/jaywcjlove/linux-command.git
+[submodule "learn-more-python-the-hard-way-solutions"]
+	path = learn-more-python-the-hard-way-solutions
+	url = https://github.com/zedshaw/learn-more-python-the-hard-way-solutions.git
